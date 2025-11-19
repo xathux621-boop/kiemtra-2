@@ -15,7 +15,7 @@ a :hover{
     background-color: rgb(124, 86, 43);
     transform: scale(1.5);
 }
-.hang1{
+.row{
     display: flex;
     justify-content: space-between;
 }
